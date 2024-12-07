@@ -4,3 +4,6 @@ def solution(array):
         if value > standard[0]:
             standard = [value, i]
     return standard
+
+# def solution(array):
+#     return [max(array), array.index(max(array))]
