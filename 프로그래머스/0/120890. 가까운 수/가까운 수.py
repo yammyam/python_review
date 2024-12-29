@@ -1,3 +1,4 @@
+1.
 # def solution(array, n):
 #     answer = 0
 #     value = 101
@@ -8,6 +9,8 @@
 #     return array[answer]
 
 # 위의 코드 안되는 점 [23,21] 22 일때 결괏값 21이 도출이 안됨
+
+2.
 def solution(array, n):
     answer = 0
     value = 101
@@ -19,3 +22,9 @@ def solution(array, n):
             if i<array[answer]:
                 answer = index
     return array[answer]
+
+# 3.
+# 선정렬
+# 답이 배열 안에 있는가 ?  -> 어레이섞어도될듯?
+# [22,24] 22   ,  [24,22] 22
+
