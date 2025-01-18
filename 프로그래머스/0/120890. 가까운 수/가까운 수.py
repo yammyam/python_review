@@ -1,4 +1,3 @@
-1.
 # def solution(array, n):
 #     answer = 0
 #     value = 101
