@@ -5,5 +5,5 @@ def solution(price):
         return int(price*0.95)
     elif 300_000<=price<500_000:
         return int(price*0.9)
-    else:
-        return int(price*0.8)
+    
+    return int(price*0.8)
