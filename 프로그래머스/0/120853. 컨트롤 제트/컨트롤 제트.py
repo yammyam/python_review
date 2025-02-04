@@ -1,9 +1,10 @@
 def solution(s):
-    answer = 0
+    stack = []
     step = s.split(" ")
-    for i in range(0 , len(step)):
-        if(step[i] == "Z"):
-            answer -= int(step[i-1])
+    for i in step:
+        if(i == "Z"):
+            if stack:
+                stack.pop()
         else:
-            answer += int(step[i])
-    return answer
+            stack.append(int(i))
+    return sum(stack)
