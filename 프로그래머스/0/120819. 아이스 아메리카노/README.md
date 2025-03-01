@@ -1,10 +1,10 @@
 # [level 0] 아이스 아메리카노 - 120819 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120819?language=python3) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120819) 
 
 ### 성능 요약
 
-메모리: 10.1 MB, 시간: 0.01 ms
+메모리: 10.2 MB, 시간: 0.00 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 12월 07일 19:21:51
+2025년 03월 01일 23:59:04
 
 ### 문제 설명
 
