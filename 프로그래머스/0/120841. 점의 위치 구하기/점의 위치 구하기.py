@@ -6,5 +6,4 @@ def solution(dot):
         return 2
     elif a<0 and b<0:
         return 3
-    elif a>0 and b<0:
-        return 4
+    return 4
