@@ -1,6 +1,2 @@
 def solution(age):
-    answer = ""
-    list = "abcdefghij"
-    for i in str(age):
-        answer += list[int(i)]
-    return answer
+    return ''.join("abcdefghij"[int(i)] for i in str(age))
