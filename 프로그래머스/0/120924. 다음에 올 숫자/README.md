@@ -1,6 +1,6 @@
 # [level 0] 다음에 올 숫자 - 120924 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120924?language=python3) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120924) 
 
 ### 성능 요약
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2025년 02월 23일 23:39:40
+2025년 03월 09일 23:47:24
 
 ### 문제 설명
 
